@@ -1,6 +1,12 @@
 
 print ("Hello World..!");
 
+print("Hello", end="  ");
+print("Hello", end="  ");
+print("Hello", end="  ");
+print("Hello", end="  ");
+print("Hello", end="  ");
+
 print("Bye..");
 
 x=5
